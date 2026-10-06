@@ -1,11 +1,9 @@
 lista: 
 
-goiaba 
-maçã
-banana
-abacaxi
-melancia 
-uvas 
+GOIABA 
+ABACAXI
+MAÇÃ 
+UVAS
 
 Essa é minha lista de compras. 
 
