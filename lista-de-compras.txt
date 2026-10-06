@@ -3,5 +3,7 @@ lista:
 goiaba 
 maçã
 banana
+abacaxi
+melancia 
 
 Essa é minha lista de compras. 
