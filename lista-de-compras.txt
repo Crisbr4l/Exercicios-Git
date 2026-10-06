@@ -1,0 +1,7 @@
+lista: 
+
+goiaba 
+maçã
+banana
+
+Essa é minha lista de compras. 
